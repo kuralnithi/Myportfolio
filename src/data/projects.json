@@ -1,0 +1,28 @@
+[
+  {
+    "title": "K - Mart",
+    "imageSrc": "../assets/Project-images/ecom.png",
+    "description": "This is a e-commerce project made to learn Redux, HOC, Razarpay",
+    "skills": ["React", "Tailwind", "HOC","Razorpay","lazyloading","Express", "Node","MongoDb"],
+    "demo": "https://kuralnithi-mart.netlify.app/",
+    "sourcef": "https://github.com/kuralnithi/ecom-frnt.git",
+    "sourceb": "https://github.com/kuralnithi/ecom-backend.git"
+  },
+  {
+    "title": "Quick chat",
+    "imageSrc": "../assets/Project-images/chat.png",
+    "description": "This is a chatapp project made to learn Socket.io, tailwind",
+    "skills": ["React","Socket.io", "Express", "Node", "Tailwind","MongoDb"],
+    "demo": "https://quickchat-by-kural.netlify.app/",
+    "sourcef": "https://github.com/kuralnithi/chatFront.git",
+    "sourceb": "https://github.com/kuralnithi/ChattApp.git"
+  },
+  {
+    "title": "Sky ways",
+    "imageSrc": "../assets/Project-images/flight.png",
+    "description": "This is a flight-ticket booking project made to learn context state management",
+    "skills": ["React","Bootstrap","jwt","bcrypt", "Express", "Node","MongoDb"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

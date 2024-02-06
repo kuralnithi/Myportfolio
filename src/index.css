@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", Arial, Helvetica, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.scss{
+  border-radius: 50%;
+}
+
+
+.pbox {
+  display: flex; 
+ flex-direction: column;
+  overflow-x: scroll; 
+  overflow-y: hidden;
+  width: 100%;
+min-height: 600px;
+max-height: 700px;
+padding: 2%;
+
+cursor: grab;
+}
+
+
+.pcard {
+  margin: 0 1%;
+  min-width: 400px; 
+  max-height: 400px;
+
+  min-height: 420px;
+}
+
+
+.pimg{
+
+width: 80%;
+
+}
+
+.pskills{
+
+min-height: 90px;
+
+}

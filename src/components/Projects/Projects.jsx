@@ -33,7 +33,7 @@
       setIsDragging(false);
     };
     return (
-      <section className={styles.container} id="projects ">
+      <section className={styles.container} id="projects">
         <h2 className={styles.title}>Projects</h2>
         <div className={`${styles.projects} pbox`}
           ref={projectsContainerRef}

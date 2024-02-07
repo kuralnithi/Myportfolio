@@ -10,7 +10,7 @@
   },
   {
     "title": "Quick chat",
-    "imageSrc": "https://i.ibb.co/tbv6Jv1/flight.png",
+    "imageSrc": "https://i.ibb.co/D7PDy1S/chat.png",
     "description": "Chatting webapp - Developed by using socket.io, tailwind",
     "skills": ["React","Socket.io", "Express", "Node", "Tailwind","MongoDb"],
     "demo": "https://quickchat-by-kural.netlify.app/",
@@ -19,7 +19,7 @@
   },
   {
     "title": "Sky ways",
-    "imageSrc": "../assets/Project-images/flight.png",
+    "imageSrc": "https://i.ibb.co/tbv6Jv1/flight.png",
     "description": "Flight-ticket booking webapp- Developed by using context state management",
     "skills": ["React","Bootstrap","jwt","bcrypt", "Express", "Node","MongoDb"],
     "demo": "https://skyways-kural.netlify.app/",

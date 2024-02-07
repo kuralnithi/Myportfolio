@@ -8,7 +8,7 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm kuralnithi </h1>
         <p className={styles.description}>
-          I'm a Mern-stack developer
+          I'm a Web developer
         </p>
         <a href="https://drive.google.com/file/d/14LSKvZBcQLnWyIkypDVtAvgX2XW6naEB/view?usp=sharing" target="blank" className={styles.contactBtn}>
           Download Resume

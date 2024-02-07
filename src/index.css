@@ -24,7 +24,7 @@ max-height: 700px;
 padding: 2%;
 background-color : darkslateblue;
  border-radius: 5%;
- 
+  
 cursor: grab;
 }
 .pbox:hover{

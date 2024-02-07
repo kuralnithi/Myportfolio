@@ -22,10 +22,15 @@ html {
 min-height: 400px;
 max-height: 700px;
 padding: 2%;
-
+background-color : darkslateblue;
+ border-radius: 5%;
+ 
 cursor: grab;
 }
+.pbox:hover{
 
+  box-shadow: -10px -5px 100px rgb(114, 231, 252)
+}
 
 .pcard {
   margin: 0 1%;

@@ -17,7 +17,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <p>
-              As a MERN stack enthusiast, I'm driven by a passion for crafting robust and dynamic web applications. My fresh perspective, combined with a dedication to continuous learning, fuels my ambition to create seamless user experiences and contribute effectively to innovative projects in the ever-evolving tech landscape
+              As a Web developent enthusiast, I'm driven by a passion for crafting robust and dynamic web applications. My fresh perspective, combined with a dedication to continuous learning, fuels my ambition to create seamless user experiences and contribute effectively to innovative projects in the ever-evolving tech landscape
               </p>
             </div>
           </li>

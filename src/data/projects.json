@@ -1,7 +1,7 @@
 [
   {
     "title": "K - Mart",
-    "imageSrc": "../assets/Project-images/ecom.png",
+    "imageSrc": "https://i.ibb.co/SX6rn7D/ecom.png",
     "description": "E-commerce webapp - Developed by using Redux, HOC, Razarpay, OAuth",
     "skills": ["React", "Tailwind", "HOC","Razorpay","lazyloading","Express", "Node","MongoDb"],
     "demo": "https://kuralnithi-mart.netlify.app/",
@@ -10,7 +10,7 @@
   },
   {
     "title": "Quick chat",
-    "imageSrc": "../assets/Project-images/chat.png",
+    "imageSrc": "https://i.ibb.co/tbv6Jv1/flight.png",
     "description": "Chatting webapp - Developed by using socket.io, tailwind",
     "skills": ["React","Socket.io", "Express", "Node", "Tailwind","MongoDb"],
     "demo": "https://quickchat-by-kural.netlify.app/",

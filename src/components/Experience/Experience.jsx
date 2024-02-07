@@ -14,8 +14,8 @@ export const Experience = () => {
           {history.map((historyItem, id) => {
             return (
               <li key={id} className={styles.historyItem}>
-                <img style={{"border-radius":"40%"}}
-                  src={historyItem.imageSrc}
+                <img style={{"border-radius":"100%","width":"30%"}}
+                  src="https://icon-library.com/images/civil-engineering-icon/civil-engineering-icon-1.jpg"
                   alt={`${historyItem.organisation} Logo`}
                 />
                 <div className={styles.historyItemDetails}>

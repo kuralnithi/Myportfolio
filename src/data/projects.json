@@ -22,7 +22,8 @@
     "imageSrc": "../assets/Project-images/flight.png",
     "description": "Flight-ticket booking webapp- Developed by using context state management",
     "skills": ["React","Bootstrap","jwt","bcrypt", "Express", "Node","MongoDb"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://skyways-kural.netlify.app/",
+    "sourcef": "https://github.com/kuralnithi/FlightTicketBookingApp-Frontend.git",
+    "sourceb": "https://github.com/kuralnithi/FlightTicketBookingApp-Backend.git"
   }
 ]

@@ -20,10 +20,20 @@
   {
     "title": "Sky ways",
     "imageSrc": "https://i.ibb.co/tbv6Jv1/flight.png",
-    "description": "Flight-ticket booking webapp- Developed by using context state management",
+    "description": "Flight-ticket booking webapp - Developed by using context state management",
     "skills": ["React","Bootstrap","jwt","bcrypt", "Express", "Node","MongoDb"],
     "demo": "https://skyways-kural.netlify.app/",
     "sourcef": "https://github.com/kuralnithi/FlightTicketBookingApp-Frontend.git",
     "sourceb": "https://github.com/kuralnithi/FlightTicketBookingApp-Backend.git"
+  },
+  {
+    "title": "web Notes",
+    "imageSrc": "https://i.postimg.cc/zzQ3Bv3Q/Screenshot-61.png",
+    "description": "Note making webapp - Developed by using Redux state management",
+    "skills": ["React","Bootstrap","Redux-thunk","Express","Node","aws(RDS,lambda,API-gateway,s3 bucket)"],
+    "demo": "http://kural-notes.s3-website-us-east-1.amazonaws.com/",
+    "sourcef": "https://github.com/kuralnithi/NotesAPPredux.git",
+    "sourceb": "https://github.com/kuralnithi/NotesAPPreduxBackend.git"
   }
+  
 ]

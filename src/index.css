@@ -36,8 +36,8 @@ cursor: grab;
   margin: 0 1%;
   min-width: 400px; 
   max-height: 400px;
-
   min-height: 420px;
+
 }
 
 
@@ -50,7 +50,6 @@ width: 80%;
 .pskills{
 
 min-height: 90px;
-
 }
 
 

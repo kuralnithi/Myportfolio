@@ -6,7 +6,6 @@ import { getImageUrl } from "../../utils";
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
   const [width,setWidth] = useState(window.innerWidth);
-
   window.addEventListener("resize", ()=>{
     setWidth(window.innerWidth);
     console.log(width);

@@ -10,9 +10,7 @@ export const Hero = () => {
         <p className={styles.description}>
           I'm a Web developer
         </p>
-        <a href="https://drive.google.com/file/d/1iGMZrTLBELGU8_i3BESpLmQpmMatC2HF/view?usp=drive_link" target="blank" className={styles.contactBtn}>
-          Download Resume
-        </a>
+      
       </div>
       <img
         src={"https://pushpesh.in/wp-content/uploads/2022/12/FB_IMG_1672069596556-transformed.png"}

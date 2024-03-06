@@ -34,6 +34,16 @@
     "demo": "http://kural-notes.s3-website-us-east-1.amazonaws.com/",
     "sourcef": "https://github.com/kuralnithi/NotesAPPredux.git",
     "sourceb": "https://github.com/kuralnithi/NotesAPPreduxBackend.git"
+  },
+  
+  {
+    "title": "web Tasks",
+    "imageSrc": "https://i.ibb.co/VLhm7JC/Screenshot-65.png",
+    "description": "Task  app with email remainder - Developed by using Redux state management",
+    "skills": ["React","Bootstrap","Redux-thunk","Express","Node","nodemailer","MongoDb"],
+    "demo": "http://kural-notes.s3-website-us-east-1.amazonaws.com/",
+    "sourcef": "https://github.com/kuralnithi/Notes-Intern.git",
+    "sourceb": "https://github.com/kuralnithi/notes-intern-backend.git"
   }
   
 ]
